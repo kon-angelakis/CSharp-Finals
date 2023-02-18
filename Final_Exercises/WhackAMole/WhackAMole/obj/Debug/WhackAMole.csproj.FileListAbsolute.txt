@@ -1,0 +1,63 @@
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe.config
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\WhackAMole.pdb
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.SuggestedBindingRedirects.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.exe
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.pdb
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form2.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\EntityFramework.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\EntityFramework.SqlServer.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.EF6.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.Linq.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\EntityFramework.xml
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\EntityFramework.SqlServer.xml
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.xml
+H:\University\3rd Semester\C#\Βαθμολογούμενες\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CopyComplete
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\EntityFramework.dll
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.dll
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\EntityFramework.xml
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.xml
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.SuggestedBindingRedirects.cache
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form2.resources
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CopyComplete
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Users\panos\Desktop\WhackAMole\WhackAMole\obj\Debug\WhackAMole.pdb
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe.config
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\WhackAMole.exe
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\WhackAMole.pdb
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\EntityFramework.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\EntityFramework.xml
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\bin\Debug\System.Data.SQLite.xml
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.AssemblyReference.cache
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.SuggestedBindingRedirects.cache
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form1.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Form2.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.Properties.Resources.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.GenerateResource.cache
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CoreCompileInputs.cache
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.csproj.CopyComplete
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.exe
+C:\Users\panos\Desktop\Goofy ah Exercises\WhackAMole\WhackAMole\obj\Debug\WhackAMole.pdb

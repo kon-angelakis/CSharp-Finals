@@ -1,0 +1,105 @@
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.exe
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.deps.json
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.runtimeconfig.json
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.pdb
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.AssemblyReference.cache
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Form1.resources
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Game_Form.resources
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.GenerateResource.cache
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.AssemblyInfoInputs.cache
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.AssemblyInfo.cs
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\refint\Battleship.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.pdb
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.genruntimeconfig.cache
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\ref\Battleship.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Properties.Resources.resources
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Final.resources
+C:\Users\Konstantinos\source\repos\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.CopyComplete
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.exe
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.deps.json
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.runtimeconfig.json
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.pdb
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\panos\Desktop\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.AssemblyReference.cache
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Final.resources
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Form1.resources
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Game_Form.resources
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Properties.Resources.resources
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.GenerateResource.cache
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.AssemblyInfoInputs.cache
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.AssemblyInfo.cs
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.CoreCompileInputs.cache
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.CopyComplete
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.dll
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\refint\Battleship.dll
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.pdb
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.genruntimeconfig.cache
+C:\Users\panos\Desktop\Battleship\Battleship\obj\Debug\net6.0-windows\ref\Battleship.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.exe
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.deps.json
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.runtimeconfig.json
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\Battleship.pdb
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\EntityFramework.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.AssemblyReference.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Final.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Form1.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Game_Form.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.Properties.Resources.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.GenerateResource.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.GeneratedMSBuildEditorConfig.editorconfig
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.AssemblyInfoInputs.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.AssemblyInfo.cs
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.CoreCompileInputs.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.csproj.CopyComplete
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\refint\Battleship.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.pdb
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\Battleship.genruntimeconfig.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\Battleship\Battleship\obj\Debug\net6.0-windows\ref\Battleship.dll

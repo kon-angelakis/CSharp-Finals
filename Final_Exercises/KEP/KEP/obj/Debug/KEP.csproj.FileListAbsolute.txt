@@ -1,0 +1,48 @@
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\KEP.exe.config
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\KEP.exe
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\KEP.pdb
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.csproj.AssemblyReference.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.csproj.SuggestedBindingRedirects.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.Form1.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.Properties.Resources.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.csproj.GenerateResource.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.csproj.CoreCompileInputs.cache
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.exe
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.pdb
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.Form2.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\EntityFramework.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\EntityFramework.SqlServer.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\System.Data.SQLite.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\System.Data.SQLite.EF6.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\System.Data.SQLite.Linq.dll
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\EntityFramework.xml
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\EntityFramework.SqlServer.xml
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\bin\Debug\System.Data.SQLite.xml
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.csproj.CopyComplete
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.Form3.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.Form5.resources
+H:\University\3rd Semester\C#\Βαθμολογούμενες\KEP\KEP\obj\Debug\KEP.Form4.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\KEP.exe.config
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\KEP.exe
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\KEP.pdb
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\EntityFramework.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\System.Data.SQLite.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\EntityFramework.xml
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\bin\Debug\System.Data.SQLite.xml
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.csproj.AssemblyReference.cache
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.csproj.SuggestedBindingRedirects.cache
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.Form1.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.Form2.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.Form3.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.Form4.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.Form5.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.Properties.Resources.resources
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.csproj.GenerateResource.cache
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.csproj.CoreCompileInputs.cache
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.csproj.CopyComplete
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.exe
+C:\Users\panos\Desktop\Goofy ah Exercises\KEP\KEP\obj\Debug\KEP.pdb
